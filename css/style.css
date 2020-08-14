@@ -1,0 +1,27 @@
+body{
+	background-image: url("../images/bg2.jpg");
+	background-color: rgb(203, 166, 252), 250);
+	text-align: center;
+}
+
+.text-muted{
+	color: brown;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+.container{
+	background-color: rgb(45, 43, 146);
+	max-width: 310px;
+	margin: auto;
+	padding: 15px;
+}
+img{
+	opacity: 0.4;
+}
+body background-image{
+	opacity: 0.5;
+}
